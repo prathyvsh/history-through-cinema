@@ -1,5 +1,6 @@
-# History through Cinema
-Figure out history through cinema
+# Learn History through Cinema
+
+This is a thread of cinemas that capture history as it unfolded. [Tweet at me](https://twitter.com/prathyvsh) if you find anything missing.
 
 
 ## Legend
