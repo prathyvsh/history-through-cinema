@@ -2,11 +2,11 @@
 Figure out history through cinema
 
 
-## Iconography
+## Legend
 
-🍿Cinematic drama over historical accuracy
-⚠️ Possibly inaccurate
-👍Mostly accurate
+- 🍿Cinematic drama over historical accuracy
+- ⚠️ Possibly inaccurate
+- 👍Mostly accurate
 
 # Ancient History
 
